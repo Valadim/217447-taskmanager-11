@@ -1,6 +1,5 @@
 * text eol=lf
-.idea
-node_modules/
+пше
 *.png binary
 *.jpg binary
 *.jpeg binary
