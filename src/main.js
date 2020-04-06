@@ -1,5 +1,3 @@
-"use strict";
-
 import {createBoardTemplate} from "./components/board.js";
 import {createFilterTemplate} from "./components/filter.js";
 import {createLoadMoreButtonTemplate} from "./components/load-more-button.js";
